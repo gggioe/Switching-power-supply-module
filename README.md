@@ -1,2 +1,2 @@
 # Switching-power-supply-module
-SIC450 eval board
+SIC450 power supply board
